@@ -47,7 +47,7 @@ app.get("/", (req, res) => {
             price: 23,
             text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
             image: "/images/burger.png",
-            type: "lunch",
+            type: "lunch ",
         },
         {
             name: "PANCAKE",
